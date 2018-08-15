@@ -2,6 +2,8 @@
 // Crate new DB and add credentials
 <div>
 artisan commands:
+</div>
+<div>
 // Crate the tables
 php artisan migrate
 // Will create 30 new dummy posts

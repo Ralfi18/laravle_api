@@ -3,11 +3,13 @@
 <div>
 artisan commands:
 </div>
+
 <div>
 // Crate the tables
 php artisan migrate
-// Will create 30 new dummy posts
-</div>  
+</div>
+
 <div>
+// Will create 30 new dummy posts
 php artisan db:seed
 </div>
